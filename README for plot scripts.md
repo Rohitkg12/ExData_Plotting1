@@ -1,4 +1,4 @@
-#Steps to be performed
+## Steps to be performed
 
 1. Fetch the data and store in system
 2. Extract the data from local system to R 
@@ -8,21 +8,21 @@
 5. Individual Plot Details
 
 
-##plot1.png
+## plot1.png
 	Plot type: hist
  	Name:  Global Active Power
 	x-axis: Global Active power(kilowatts)
 	y-axis: Frequency 
 	Legends: NA
 
-##plot2.png
+## plot2.png
 	Plot type: line plot
  	Name:  NA
 	x-axis: NA(Default: Datetime
 	y-axis: Global Active power(kilowatts)
 	Legends: NA
 
-##plot3.png
+## plot3.png
 	Plot type:  line plot
  	Name:  NA
 	x-axis: NA(Default: Datetime)
@@ -30,7 +30,7 @@
 	Legends: Sub_metering_1, Sub_metering_2 and  Sub_metering_3 (topright - black, red and blue)
 
 
-##plot4.png
+## plot4.png
 	Plot type: multi-plots (line graphs)
  	Name:  NA,NA,NA,NA
 	x-axis: Datetime, Datetime,Datetime,Datetime
